@@ -1,0 +1,23 @@
+button {
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 8px 4px 8px 4px;
+  border: none;
+  background-color: initial;
+}
+
+.flat {
+  color: #5e6c84;
+  display: block;
+
+  text-align: left;
+}
+
+.flat:hover {
+  background-color: #091e4214;
+  color: #172b4d;
+}
+
+.rounded {
+  text-align: center;
+}

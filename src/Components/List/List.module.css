@@ -1,0 +1,26 @@
+.list {
+  padding: 5px;
+  border-radius: 3px;
+  background-color: #ebecf0;
+  border: none;
+  width: 272px;
+  margin-right: 5px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: flex-start;
+  justify-content: flex-start;
+  height: 100%;
+  font-weight: 400;
+}
+
+.list__title-area {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.list__add-button {
+  width: 100%;
+}

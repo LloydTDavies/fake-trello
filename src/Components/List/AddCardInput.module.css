@@ -1,0 +1,43 @@
+.add-card__button{
+    background-color: #0079bf;
+    color: #fff;
+}
+
+.add-card__button:hover {
+    background-color: #026aa7;
+}
+
+.add-card__cancel {
+    top: 5px;
+    position: relative;
+    left: 10px;
+    color: #6b778c
+}
+
+.add-card__cancel:hover{
+    color: #172b4d;
+}
+
+
+textarea{
+    background: none;
+    height: auto;
+    margin-bottom: 4px;
+    max-height: 162px;
+    min-height: 54px;
+    overflow-y: auto;
+    padding: 0;
+    width: 100%;
+    background-color: #fff;
+    background-color: #fafbfc;
+    border: none;
+    border-radius: 3px;
+    box-shadow: inset 0 0 0 2px #dfe1e6;
+    box-sizing: border-box;
+    display: block;
+    line-height: 20px;
+    margin-bottom: 12px;
+    outline: none;
+    padding: 8px 12px;
+    resize: none;
+}
